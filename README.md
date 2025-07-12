@@ -9,4 +9,4 @@ A simple and visually appealing button animation built using HTML, CSS, only. Th
 - Easy to customize and integrate
 - Lightweight and responsive
 
-view the project clicking this link 
+view the project clicking this link https://kimbi12.github.io/BUTTON-ANIMATION/
